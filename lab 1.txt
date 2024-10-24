@@ -1,0 +1,6 @@
+lab 1
+1. (a). feet, fathoms
+   (b). declaration: int feet, fathoms
+        lvalue is on the left side of "=" which is seen twice....fathoms = 2 (fathoms is lvalue) and feet = 6*fathoms (feet is lvalue)
+        rvalue is on the right side of "="...feet = 6*fathoms (the number 6 and fathoms are both rvalues)
+
