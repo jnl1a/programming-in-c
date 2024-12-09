@@ -1,2 +1,3 @@
 Julia-Kay Gutiza
-Course: Bc.S of Artificial Intelligence
+Course: BSc of Artificial Intelligence
+Class: CPS1011
